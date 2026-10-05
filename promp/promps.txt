@@ -1,0 +1,2 @@
+1.necesito un programa que le pida al usuario unos datos mediante un "boton"(solicitar saludo" en el que el sistema le pide al usuario el nombre,edad,hora(AM/PM), el usuario ingresa lo solicitado, el sistema saluda al usuario por su nombre y menciona su edad.
+2.como lo runeo?
